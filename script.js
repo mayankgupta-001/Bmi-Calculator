@@ -20,5 +20,5 @@ function calculateBMI() {
         category = "Obesity";
     }
 
-    document.getElementById("calculatedbmi").textContent = `Your BMI is ${bmi.toFixed(2)} (${category})`;
+    document.getElementById("calculatedbmi").innerHTML = `Your BMI is ${bmi.toFixed(2)} (${category})`;
 }
