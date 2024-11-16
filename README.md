@@ -7,9 +7,8 @@ Features:
 2. Calculates BMI using the formula:
 3. BMI = weight (kg) / [height (m)]²
 4. Displays the BMI value and its corresponding category:
-
-(a)Underweight: BMI < 18.5
-(b)Normal weight: BMI 18.5–24.9
-(c)Overweight: BMI 25–29.9
-(d)Obesity: BMI ≥ 30
+(a) Underweight: BMI < 18.5
+(b) Normal weight: BMI 18.5–24.9
+(c) Overweight: BMI 25–29.9
+(d) Obesity: BMI ≥ 30
 5. User-friendly interface with real-time validation for inputs.
